@@ -19,7 +19,7 @@ A no-code web application built on Bubble.io demonstrating **Stripe subscription
 
 ---
 
-## 📡 API Integrations
+## API Integrations
 
 ### Stripe API
 - Create Checkout Session
@@ -34,7 +34,7 @@ A no-code web application built on Bubble.io demonstrating **Stripe subscription
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - [Bubble.io](https://bubble.io/)
 - [Stripe API](https://stripe.com/docs/api)
@@ -42,24 +42,22 @@ A no-code web application built on Bubble.io demonstrating **Stripe subscription
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 *(Include screenshots or GIFs in a `screenshots/` folder)*
 
 ---
 
-## 🚀 Live Demo
+## Demo App Link
 
 *(Optional: Add Bubble live demo URL if public)*
 
 ---
 
-## 📄 License
-
+## License
 This project is for portfolio and learning purposes. Not for commercial reuse.
 
 ---
 
-## 🙋‍♂️ Author
-
+## Author
 Created by Nachiket Karhade
