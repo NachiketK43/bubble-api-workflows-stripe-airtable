@@ -35,7 +35,6 @@ A no-code web application built on Bubble.io demonstrating **Stripe subscription
 ---
 
 ## Tech Stack
-
 - [Bubble.io](https://bubble.io/)
 - [Stripe API](https://stripe.com/docs/api)
 - [Airtable API](https://airtable.com/api)
