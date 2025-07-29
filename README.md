@@ -42,8 +42,7 @@ A no-code web application built on Bubble.io demonstrating **Stripe subscription
 ---
 
 ## Screenshots
-
-*(Include screenshots or GIFs in a `screenshots/` folder)*
+![Account Page](screenshots/account-page.png)
 
 ---
 
