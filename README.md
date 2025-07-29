@@ -42,7 +42,7 @@ A no-code web application built on Bubble.io demonstrating **Stripe subscription
 ---
 
 ## Screenshots
-![Account Page](screenshots/account-page.png)
+![Account Page](screenshots/Account Page.png)
 
 ---
 
