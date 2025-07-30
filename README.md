@@ -38,7 +38,7 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 
 **Account Page**
 ![Account Page](screenshots/Account%20Page.png)
-
+![Airtable Base](screenshots/Airtable%20Base%20 .png)
 ---
 
 ## Demo App Link
