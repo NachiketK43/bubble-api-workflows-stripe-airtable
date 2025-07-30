@@ -1,11 +1,6 @@
 # bubble-api-workflows-stripe-airtable
 Bubble.io app showcasing integrations of Bubble with Stripe for subscription payment and Bubble with Airtable for fetching live data from Airtable base
 
-# Bubble Property Subscription App
-A no-code web application built on Bubble.io demonstrating **Stripe subscription workflows** and **Airtable base integration** using custom API calls.
-
----
-
 🔧 Features
 
 - User login/signup flow
