@@ -38,8 +38,26 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 
 **Account Page**
 ![Account Page](screenshots/Account%20Page.png)
-![Account Page (Bubble Editor)]screenshots/Account%20Page%20(%20Bubble%20Editor%20).png
 ![Listing Page](screenshots/Create%20Listing%20Page.png)
+![Account Page (Bubble Editor)](screenshots/Account%20Page%20(Bubble%20Editor).png)
+![Account Page](screenshots/Account%20Page.png)
+![Airtable Base](screenshots/Airtable%20Base%20.png)
+![Airtable Workflow - Creating a new listing](screenshots/Airtable%20Workflow%20(Creating%20a%20new%20listing).png)
+![Airtable Workflow - Editing a listing](screenshots/Airtable%20Workflow%20(Editing%20a%20listing).png)
+![Create Listing Page (Bubble Editor)](screenshots/Create%20Listing%20Page%20(Bubble%20Editor).png)
+![Create Listing Page](screenshots/Create%20Listing%20Page.png)
+![Edit Listing Page](screenshots/Edit%20Listing%20Page.png)
+![Header (Bubble Editor)](screenshots/Header%20(Bubble%20Editor).png)
+![Login_Signup Page (Bubble Editor)](screenshots/Login_Signup%20Page%20(Bubble%20Editor).png)
+![Pricing Page (Bubble Editor)](screenshots/Pricing%20Page%20(Bubble%20Editor).png)
+![Pricing Page](screenshots/Pricing%20Page.png)
+![Property Listings Page (Bubble Editor)](screenshots/Property%20Listings%20Page%20(Bubble%20Editor).png)
+![Property Listings Page](screenshots/Property%20Listings%20Page.png)
+![Stripe Checkout Session Workflow](screenshots/Stripe%20Checkout%20Session%20Workflow.png)
+![Stripe Workflow (checkout-session)](screenshots/Stripe%20Workflow%20(checkout-session).png)
+![Stripe Workflow (invoice-paid)](screenshots/Stripe%20Workflow%20(invoice-paid).png)
+![Stripe Workflow (subscription-deleted)](screenshots/Stripe%20Workflow%20(subscription-deleted).png)
+
 ---
 
 ## Demo App Link
