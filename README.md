@@ -43,8 +43,6 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 
 ## Demo App Link
 
-*(Optional: Add Bubble live demo URL if public)*
-
 ---
 
 ## License
