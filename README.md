@@ -1,22 +1,21 @@
 # bubble-api-workflows-stripe-airtable
 Bubble.io app showcasing integrations of Bubble with Stripe for subscription payment and Bubble with Airtable for fetching live data from Airtable base
 
-🔧 Features
+**Feature List**
 
 - User login/signup flow
-- Tiered pricing page with 3 subscription plans
+- Tiered pricing page 
 - Stripe Checkout integration (via API Connector)
-- Account page with current plan, personal details, and invoice display
-- Cancel subscription functionality via API
-- Listings page displaying data from Airtable base which stores information regarding property listing (name, description, price, size, type, location)
-- Create and edit property listings from Bubble
+- Account page 
+- Property Listings page 
+- Create and edit property listings 
 
 ---
 
 ## Demo App Link
-(https://test-app-58311.bubbleapps.io/version-test/signup_login?debug_mode=true)
+🔗 [Click to view demo app](https://test-app-58311.bubbleapps.io/version-test/signup_login?debug_mode=true)
 
-Create an account or Use this test account to explore the demo:
+Create an account or use this test account to explore the demo:
 
 - **Email**: olivia.hart@skyline.net
 - **Password**: G7r!Kzq2L#t5
@@ -151,11 +150,18 @@ Create an account or Use this test account to explore the demo:
 
 ---
 
-
-## License
-This project is for portfolio and learning purposes. Not for commercial reuse.
+## Notes
+This project is part of a curated **Bubble Developer Portfolio** built for learning purposes.
 
 ---
 
-## Author
-Created by Nachiket Karhade
+## Creator
+
+**Nachiket Karhade**  
+No-Code Builder| Bubble Developer
+<br>
+🔗 [GitHub](https://github.com/NachiketK43) 
+<br>
+
+
+---
