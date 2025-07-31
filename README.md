@@ -19,8 +19,8 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 
 Use this test account to explore the demo:
 
-- **Email**: olivia.hart@skyline.net
-- **Password**: G7r!Kzq2L#t5
+**Email**: olivia.hart@skyline.net
+**Password**: G7r!Kzq2L#t5
 
 ⚠️ Data may reset periodically.
 
@@ -52,8 +52,24 @@ Use this test account to explore the demo:
 - Upon selection of any one tier, a workflow triggers a call to Stripe Checkout Session API with plan-specific metadata
 - User makes the payment and is directed back to the pricing page
 
+**Stripe Checkout Integration (via API Connector)**
+- Directs the user to Stripe’s hosted checkout page for secure card entry and payment
+- POST /v1/checkout/session set up to create new subscriptions
+- GET /v1/subscriptions and GET /v1/invoices for status/invoice retrieval
 
+  **Account Page with Plan Details**
+  - Allows users to view their active plan, next billing date, and update account details like name/email
+  - "Cancel" buttons connect with Stripe via API Connector
+ 
+  **Listings Page Fetching Data from Airtable**
+  - Connected Airtable using Bubble’s API Connector
+  - Used Airtable’s GET endpoint to fetch listing records
+  - Data is displayed using a Repeating Group, dynamically populated from the Airtable response
+  - Each listing card includes edit/delete icons that trigger corresponding Airtable updates
+ 
+    
 ---
+## Screenshots
 
 ### Listing Page
 ![Listing Page](screenshots/Create%20Listing%20Page.png)
