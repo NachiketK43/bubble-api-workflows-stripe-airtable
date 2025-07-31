@@ -46,7 +46,8 @@ Use this test account to explore the demo:
 - Enables user to sign up or log in
 - Utilized Bubble’s built-in User data type and Authentication actions
 - Custom workflows directs user to Pricing Page to select a subscription tier 
-
+<br>
+<br>
 
 **Tiered Pricing Page with Subscription Plans**
 - Displays three transparent pricing tiers: Monthly ($20), Semi-Annual ($100), and Yearly ($170), allowing users to select one
