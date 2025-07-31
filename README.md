@@ -19,7 +19,6 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 (Requires signup)
 
 ---
-
 ## API Integrations
 
 ### Stripe API
