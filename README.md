@@ -6,7 +6,6 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 - User login/signup flow
 - Tiered pricing page with 3 subscription plans
 - Stripe Checkout integration (via API Connector)
-- Post-payment user redirection and access gating
 - Account page with current plan, personal details, and invoice display
 - Cancel subscription functionality via API
 - Listings page displaying data from Airtable base which stores information regarding property listing (name, description, price, size, type, location)
