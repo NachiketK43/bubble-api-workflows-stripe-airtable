@@ -14,6 +14,12 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 
 ---
 
+## Demo App Link
+(https://test-app-58311.bubbleapps.io/version-test/signup_login?debug_mode=true)
+(Requires signup)
+
+---
+
 ## API Integrations
 
 ### Stripe API
@@ -33,12 +39,6 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 - [Bubble.io](https://bubble.io/)
 - [Stripe API](https://stripe.com/docs/api)
 - [Airtable API](https://airtable.com/api)
-
----
-
-## Demo App Link
-(https://test-app-58311.bubbleapps.io/version-test/signup_login?debug_mode=true)
-(Requires signup)
 
 ---
 
