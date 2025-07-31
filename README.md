@@ -57,11 +57,11 @@ Use this test account to explore the demo:
 - POST /v1/checkout/session set up to create new subscriptions
 - GET /v1/subscriptions and GET /v1/invoices for status/invoice retrieval
 
-  **Account Page with Plan Details**
+**Account Page with Plan Details**
   - Allows users to view their active plan, next billing date, and update account details like name/email
   - "Cancel" buttons connect with Stripe via API Connector
  
-  **Listings Page Fetching Data from Airtable**
+ **Listings Page Fetching Data from Airtable**
   - Connected Airtable using Bubble’s API Connector
   - Used Airtable’s GET endpoint to fetch listing records
   - Data is displayed using a Repeating Group, dynamically populated from the Airtable response
