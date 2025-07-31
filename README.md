@@ -47,6 +47,11 @@ Use this test account to explore the demo:
 - Utilized Bubble’s built-in User data type and Authentication actions
 - Custom workflows directs user to Pricing Page to select a subscription tier 
 
+**Tiered Pricing Page with Subscription Plans**
+- Displays three transparent pricing tiers: Monthly ($20), Semi-Annual ($100), and Yearly ($170), allowing users to select one
+- Upon selection of any one tier, a workflow triggers a call to Stripe Checkout Session API with plan-specific metadata
+- User makes the payment and is directed back to the pricing page
+
 
 ---
 
