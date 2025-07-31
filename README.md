@@ -47,30 +47,29 @@ Use this test account to explore the demo:
 - Utilized Bubble’s built-in User data type and Authentication actions
 - Custom workflows directs user to Pricing Page to select a subscription tier 
 <br>
-<br>
 
 **Tiered Pricing Page with Subscription Plans**
 - Displays three transparent pricing tiers: Monthly ($20), Semi-Annual ($100), and Yearly ($170), allowing users to select one
 - Upon selection of any one tier, a workflow triggers a call to Stripe Checkout Session API with plan-specific metadata
 - User makes the payment and is directed back to the pricing page
-
+<br>
 
 **Stripe Checkout Integration (via API Connector)**
 - Directs the user to Stripe’s hosted checkout page for secure card entry and payment
 - POST /v1/checkout/session set up to create new subscriptions
 - GET /v1/subscriptions and GET /v1/invoices for status/invoice retrieval
-
+<br>
 
 **Account Page with Plan Details**
-  - Allows users to view their active plan, next billing date, and update account details like name/email
-  - "Cancel" buttons connect with Stripe via API Connector
-
+- Allows users to view their active plan, next billing date, and update account details like name/email
+- "Cancel" buttons connect with Stripe via API Connector
+<br>
  
  **Listings Page Fetching Data from Airtable**
-  - Connected Airtable using Bubble’s API Connector
-  - Used Airtable’s GET endpoint to fetch listing records
-  - Data is displayed using a Repeating Group, dynamically populated from the Airtable response
-  - Each listing card includes edit/delete icons that trigger corresponding Airtable updates
+ - Connected Airtable using Bubble’s API Connector
+ - Used Airtable’s GET endpoint to fetch listing records
+ - Data is displayed using a Repeating Group, dynamically populated from the Airtable response
+ - Each listing card includes edit/delete icons that trigger corresponding Airtable updates
  
     
 ---
