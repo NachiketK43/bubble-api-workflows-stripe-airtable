@@ -18,8 +18,8 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 
 Create an account or Use this test account to explore the demo:
 
-**Email**: olivia.hart@skyline.net
-**Password**: G7r!Kzq2L#t5
+- **Email**: olivia.hart@skyline.net
+- **Password**: G7r!Kzq2L#t5
 
 ⚠️ Data may reset periodically.
 
