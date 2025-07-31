@@ -16,7 +16,7 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 ## Demo App Link
 (https://test-app-58311.bubbleapps.io/version-test/signup_login?debug_mode=true)
 
-Use this test account to explore the demo:
+Create an account or Use this test account to explore the demo:
 
 **Email**: olivia.hart@skyline.net
 **Password**: G7r!Kzq2L#t5
