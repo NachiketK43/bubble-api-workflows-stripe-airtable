@@ -40,10 +40,13 @@ Use this test account to explore the demo:
 
 ---
 
-## Tech Stack
-- [Bubble.io](https://bubble.io/)
-- [Stripe API](https://stripe.com/docs/api)
-- [Airtable API](https://airtable.com/api)
+## Project Features
+
+User Login/Signup Flow
+- Enables user to sign up or log in
+- Utilized Bubble’s built-in User data type and Authentication actions
+- Custom workflows directs user to Pricing Page to select a subscription tier 
+
 
 ---
 
