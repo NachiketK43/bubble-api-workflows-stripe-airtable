@@ -13,7 +13,7 @@ Bubble.io app showcasing integrations of Bubble with Stripe for subscription pay
 ---
 
 ## Demo App Link
-🔗 [Click to view demo app](https://test-app-58311.bubbleapps.io/version-test/signup_login?debug_mode=true)
+🔗 [Click to view demo app](https://test-app-58311.bubbleapps.io/version-test/signup_login)
 
 Create an account or use this test account to explore the demo:
 
