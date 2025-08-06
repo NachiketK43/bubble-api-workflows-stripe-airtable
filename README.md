@@ -18,8 +18,8 @@ _(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 
 Use this test account to explore the demo:
 
-- **Email**: olivia.hart@skyline.net
-- **Password**: G7r!Kzq2L#t5
+- **Email**: priya.menon@novusmail.com
+- **Password**: Nw4$Fb7vL*d8
 
 ⚠️ Data may reset periodically.
 
